@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qF4Hh5h5+En2K5/cF0EKVbTU7RkhzG8TKzyLo4+hfpPeKEWzedvhRBtVBYQUQ//NiC0BE9sgX3trWADWOD4KGg==",
+  "dgSpecHash": "bmZ9z8jYMMv0GvlN/JzqGfwOItj3uFJfqKVhRX6lPrgV6GpIaQ8qc7HJtK3AERDo9vZgSiY+NQdAzOMRkdWzuA==",
   "success": true,
   "projectFilePath": "/Users/apple/Desktop/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/apple/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
     "/Users/apple/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/apple/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.24/microsoft.netcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.24/microsoft.aspnetcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.24/microsoft.netcore.app.crossgen2.osx-x64.6.0.24.nupkg.sha512"
